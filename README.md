@@ -5,7 +5,7 @@ Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente”
 
 Tema: Biofertilizante à base de resíduos de café
 
-link do site: https://claricebuchhotz-lgtm.github.io/Agrinho-2026/
+link do site: https://github.com/claricebuchhotz-lgtm/Agrinho-2026.git
 
 Fontes:https: //tse2.mm.bing.net/th/id/OIP.uK9ixIXQB_wcd2IibofBAAHaEK?pid=Api&P=0&h=180
 https://imagens-cdn.canalrural.com.br/2024/05/cafe-2_2.3.1-1-1024x576.jpg
